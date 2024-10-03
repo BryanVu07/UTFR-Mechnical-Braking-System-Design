@@ -56,3 +56,9 @@
 3.2.1.4 Front Caliper
 
 ![image](https://github.com/user-attachments/assets/c583817c-7b99-442a-8581-a2be7adf65fa)
+
+3.3 Brake Light
+
+3.3.1 SolidWorks
+![image](https://github.com/user-attachments/assets/d7ca2135-3fd1-4461-97ce-72342330d5e8)
+
