@@ -48,6 +48,8 @@ This multiphysics sheet includes the ongoing development of the UTFR Mechanical 
 
 3.2 Floating Rotors:
 
+The rotors were created by the previous Braking System Lead and will continue to be used due to their high thermal efficiency and reliable mechanical design. My responsibility is to ensure that the rotors can be installed with the calipers on the updated suspension system, which includes the upright and hub.
+
 3.2.1 Solidworks
 
 3.2.1.1 Front
