@@ -1,3 +1,9 @@
+
+# UT25 Mechanical Braking System Development
+
+## Introduction
+This project focuses on the development of the UTFR Mechanical Braking System, ensuring precision and strict adherence to engineering standards and Formula Student Competition rules. The work involved managing design reviews and setting key milestones for DFA, DFC, and DFM on various components. The project aimed to uphold mechanical fundamentals and efficient practices in braking system design. A key responsibility was the integration of regenerative actuators to recover braking energy, enhancing the vehicle's energy efficiency and performance.
+
 1.0 Mechanical Department Goals:
 
 ![image](https://github.com/user-attachments/assets/bd6502bd-729a-4e5f-834d-59d3b41daa7e)
