@@ -23,7 +23,7 @@
 ![image](https://github.com/user-attachments/assets/28c07eed-c146-4d9c-b690-ca3f3513ca05)
 ![image](https://github.com/user-attachments/assets/0891e3a9-02d1-42d3-8167-9cb24fbb8db8)
 
-3.1.2 Brake Pedal:
+3.1.2 Brake Pedal with Regen Actuator Pistons:
 
 3.1.2.1 Solidworks
 
