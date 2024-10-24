@@ -39,6 +39,13 @@ This project focuses on the development of the UTFR Mechanical Braking System, e
 
 ![image](https://github.com/user-attachments/assets/42a6e605-d7f0-447f-9a2f-0a1238e77163)
 
+3.1.2.3 Calculations
+
+This multiphysics sheet includes the ongoing development of the UTFR Mechanical Braking System, with a focus on ensuring precision and strict adherence to engineering standards and Formula Student Competition rules. Since the first braking system was implemented on the car, this dedicated calculation sheet has been in created to assess braking performance. As the UT25 Braking System Lead, I am responsible for making adjustments and updating the new design parameters in this sheet to ensure compliance with engineering standards and the physical requirements of the vehicle on track.
+
+
+<img width="1467" alt="Screenshot 2024-10-24 at 6 19 01 PM" src="https://github.com/user-attachments/assets/dcc0a04b-52dd-4e88-a946-dc136d72a667">
+
 3.2 Floating Rotors:
 
 3.2.1 Solidworks
